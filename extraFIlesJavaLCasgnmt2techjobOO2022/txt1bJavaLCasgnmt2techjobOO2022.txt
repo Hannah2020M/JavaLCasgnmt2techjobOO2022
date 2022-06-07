@@ -1,0 +1,151 @@
+txt1bJavaLCasgnmt2techjobOO2022
+
+5:34 PM 6/7/2022
+
+Git Bash history
+
+
+
+== 5:34 PM 6/7/2022 ==+++++++++================
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~
+$ cd Documents
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents (main)
+$ cd JavaLCasgnmt2techjobOO2022
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (main)
+$ ls
+extraFIlesJavaLCasgnmt2techjobOO2022/
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (main)
+$ git status
+warning: could not open directory 'My Music/': Permission denied
+warning: could not open directory 'My Pictures/': Permission denied
+warning: could not open directory 'My Videos/': Permission denied
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../.idea/
+        ../1aLCjavaPractice2022/
+        ../1mysql1a/
+        ../1mysql2a/
+        ../2016TEAMcse330SSHkeyForEC2Instance.txt
+        ../2javaProjects/
+        ../DOM-and-Events-Studio/
+        ../FirstProtectKidsPostponePornAndPolygamyIfYouCannotRefusePolygamyAtleastPostpone.txt
+        ../Git-Exercises/
+        ../HTTP-and-Forms-Studio/
+        ../JAVA/.idea/
+        ../JAVA/JustChecking/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/.idea/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/1chLCexer/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/HelloWorld.java
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/LC1chCURUextraFiles/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/.idea/description.html
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/.idea/misc.xml
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/.idea/modules.xml
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/.idea/project-template.xml
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/out/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/ch1HiWorld/src/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/java1a/
+        ../JAVA/LCjavaProj/LCjava2022exerc/1ch10ExerclsUTstInhrtPlymrInterfaceSpringContrlrsRuting/1ch5ExerdttypCntrlFlwCollecClass/Ch1ExerCURUsetup/LC1chCURU/src/
+        ../JAVA/TestJavaCodeBlocks/
+        ./
+        ../JavaLCasgnmt2techjobOO2022Rough/
+        ../LC101-studio-13/
+        ../LCjava2022/javaChapters/
+        ../LCpracticeJava/
+        ../Portfolio/
+        ../Zoom/
+        ../angulatSmallGroup.txt
+        ../asgmnt2JobTest.jpg
+        ../asgnment2LC2022may12/
+        ../assignment-4-html-me-something/
+        ../belizeBreeze/
+        ../communication-log-ROLE/
+        ../communication13studio/
+        ../desktop.ini
+        ../exerRocketSimulation/
+        ../imp/
+        ../java-web-dev-exercises/
+        ../java2022Assignments/
+        ../javawebdevexercises1/
+        ../lecture12-2022/
+        ../lecture14-my-zoo/
+        ../localBelizeBreeze/
+        ../myTechDoubts/
+        ../out/
+        ../partytracker/
+        ../techCloned/
+        ../techjobs-console-java/
+        ../test1/
+        ../toDo/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (main)
+$ git init
+Initialized empty Git repository in C:/Users/h19sl/Documents/JavaLCasgnmt2techjobOO2022/.git/
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        extraFIlesJavaLCasgnmt2techjobOO2022/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git add .
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git commit -m"initial commit"
+[master (root-commit) 419a1b5] initial commit
+ 1 file changed, 5 insertions(+)
+ create mode 100644 extraFIlesJavaLCasgnmt2techjobOO2022/txt1aJavaLCasgnmt2techjobOO2022.txt
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git stauts
+git: 'stauts' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git remote add origin https://github.com/Hannah2020M/JavaLCasgnmt2techjobOO2022.git
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 401 bytes | 401.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Hannah2020M/JavaLCasgnmt2techjobOO2022.git
+ * [new branch]      master -> master
+
+h19sl@LAPTOP-CG2SCNUS MINGW64 ~/Documents/JavaLCasgnmt2techjobOO2022 (master)
+$
+==  end of 5:34 PM 6/7/2022 ==++++++++++++++++++===========
